@@ -1,0 +1,10 @@
+1. git checkout -b "new-branch-name"
+2. Changes - czyli plik tworzysz w tym branchu, etytujesz, itp. (add, edit, remove)
+3. git add
+4. git commit -m "message"
+5. git push (za pierwszym razem jeszcze set upstream)
+6. Repeat steps 2-5 (tu push już bez upstream) - jeśli chcesz dodać więcej niż 1 commita
+7. New PR (pull request na Git Hub)
+8. Merge
+9. Switch to main branch - powróć na główny branch, czyli master
+10. git pull na tym masterze
